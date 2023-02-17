@@ -1,0 +1,1126 @@
+[
+    {
+        "text_id": "best_hotel_deals",
+        "en": "Best hotel deals for your holiday",
+        "ta": "உங்கள் விடுமுறைக்கான சிறந்த ஹோட்டல் சலுகைகள்",
+        "si": "ඔබගේ නිවාඩුව සඳහා හොඳම හෝටල් ගනුදෙනු",
+        "ch": "最適合您假期的酒店優惠"
+    },
+    {
+        "text_id": "already_have_account",
+        "en": "Already have account? ",
+        "ta": "ஏற்கனவே ஒரு கணக்கு உள்ளதா?",
+        "si": "දැනටමත් ගිණුමක් තිබේද?",
+        "ch": "已有帳號？"
+    },
+    {
+        "text_id": "get_started",
+        "en": "Get started",
+        "ta": "தொடங்குங்கள்",
+        "si": "පටන් ගන්න",
+        "ch": "開始吧"
+    },
+    {
+        "text_id": "plan_your_trips",
+        "en": "Plan your trips",
+        
+        "si": "ඔබගේ චාරිකා සැලසුම් කරන්න",
+        "ta": "உங்கள் பயணங்களை திட்டமிடுங்கள்",
+        "ch":  "計劃你的旅行"   
+    },
+    {
+        "text_id": "book_one_of_your",
+        "en": "book one of your unique hotel to\nescape the ordinary",
+        "si": "ඔබගේ චාරිකා සැලසුම් කරන්න",
+        "ta": "உங்கள் பயணங்களை திட்டமிடுங்கள்",
+        "ch":  "計劃你的旅行" 
+    },
+    {
+        "text_id": "find_best_deals",
+        "en": "Find best deals",
+        "si": "ඔබගේ චාරිකා සැලසුම් කරන්න",
+        "ta": "உங்கள் பயணங்களை திட்டமிடுங்கள்",
+        "ch":  "計劃你的旅行" 
+    },
+    {
+        "text_id": "find_deals_for_any",
+        "en": "Find deals for any season from cosy\ncountry homes to city flats",
+        "si": "සුවපහසු සිට ඕනෑම කන්නයක් සඳහා ගනුදෙනු සොයන්න\nරටේ නිවාස සිට නගර මහල් නිවාස දක්වා",
+        "ta": "எந்தப் பருவத்திற்கும் வசதியான சலுகைகளைக் கண்டறியவும்\nநாட்டின் வீடுகள் முதல் நகர குடியிருப்புகள் வரை",
+        "ch":  "从舒适中寻找任何季节的交易\n乡村住宅到城市公寓"
+    },
+    {
+        "text_id": "best_travelling_all_time",
+        "en": "Best travelling all time",
+        "si": "සෑම විටම හොඳම ගමන්",
+        "ta": "எல்லா நேரத்திலும் பயணம் செய்வது சிறந்தது",
+        "ch":  "有史以来最好的旅行" 
+    },
+    {
+        "text_id": "login",
+        "en": "Login",
+        "si": "ඇතුල් වන්න",
+        "ta": "உள்நுழைய",
+        "ch":  "登录 "
+    },
+    {
+        "text_id": "create_account",
+        "en": "Create account",
+        "si": "ගිණුම තනන්න",
+        "ta": "உங்கள் கணக்கை துவங்குங்கள்",
+        "ch":  "创建账户" 
+    },
+    {
+        "text_id": "log_with mail",
+        "en": "or log in with email",
+        "si": "නැතහොත් විද්‍යුත් තැපෑලෙන් ලොග් වන්න",
+        "ta": "அல்லது மின்னஞ்சல் மூலம் உள்நுழையவும்",
+        "ch":  "或使用电子邮件登录" 
+    },
+    {
+        "text_id": "your_mail",
+        "en": "Your email",
+        "si": "ඔබේ විද්යුත් තැපැල් ලිපිනය",
+        "ta": "உங்கள் மின்னஞ்சல்",
+        "ch":  "你的邮件" 
+    },
+    {
+        "text_id": "password",
+        "en": "Password",
+        "si": "මුරපදය",
+        "ta": "கடவுச்சொல்",
+        "ch":  "密码" 
+    },
+    {
+        "text_id": "forgot_your_Password",
+        "en": "Forgot your Password?",
+        "si": "මුරපදය අමතක වුනාද?",
+        "ta": "உங்கள் கடவுச்சொல்லை மறந்து விட்டீர்களா?",
+        "ch":  "忘记密码了吗?" 
+    },
+    {
+        "text_id": "resend_email_link",
+        "en": "Enter your email to receive an email to reset your password",
+        "si": "ඔබගේ මුරපදය යළි පිහිටුවීම සඳහා විද්‍යුත් තැපෑලක් ලබා ගැනීමට ඔබගේ විද්‍යුත් තැපෑල ඇතුලත් කරන්න",
+        "ta": "உங்கள் கடவுச்சொல்லை மீட்டமைக்க மின்னஞ்சலைப் பெற உங்கள் மின்னஞ்சலை உள்ளிடவும்",
+        "ch":  "输入您的电子邮件以接收重置密码的电子邮件" },
+    {
+        "text_id": "send",
+        "en": "Send",
+        "si": "යවන්න",
+        "ta": "அனுப்பு",
+        "ch":  "发送" 
+    },
+    {
+        "text_id": "sign_up",
+        "en": "Sign up",
+        "si": "ලියාපදිංචි වන්න",
+        "ta": "பதிவு செய்யவும்",
+        "ch":  "注册" 
+    },
+    {
+        "text_id": "first_name",
+        "en": "First name",
+        "si": "මුල් නම",
+        "ta": "முதல் பெயர்",
+        "ch":  "名" 
+    },
+    {
+        "text_id": "last_name",
+        "en": "Last name",
+        "si": "අවසන් නම",
+        "ta": "கடைசி பெயர்",
+        "ch":  "姓" 
+    },
+    {
+        "text_id": "terms_agreed",
+        "en": "By Signing up,you agreed with our terms of\n Services and privacy policy",
+        "si": "ලියාපදිංචි වීමෙන්, ඔබ අපගේ\n සේවා කොන්දේසි සහ රහස්‍යතා ප්‍රතිපත්තිය සමඟ එකඟ විය",
+        "ta": "பதிவு செய்வதன் மூலம், எங்கள்\n சேவைகள் மற்றும் தனியுரிமைக் கொள்கையின் விதிமுறைகளை ஏற்றுக்கொண்டீர்கள்",
+        "ch":  "注册即表示您同意我们的\n服务条款和隐私政策" 
+    },
+    {
+        "text_id": "explore",
+        "en": "Explore",
+        "si": "ගවේෂණය කරන්න",
+        "ta": "ஆராயுங்கள்",
+        "ch":  "探索" 
+    },
+    {
+        "text_id": "trips",
+        "en": "Trips",
+        "si": "චාරිකා",
+        "ta": "பயணங்கள்",
+        "ch":  "行程" 
+    },
+    {
+        "text_id": "profile",
+        "en": "Profile",
+        "si": "පැතිකඩ",
+        "ta": "சுயவிவரம்",
+        "ch":  "轮廓" 
+    },
+    {
+        "text_id": "where_are_you_going",
+        "en": "Where are you going?",
+        "si": "ඔයා කොහේද යන්නේ?",
+        "ta": "எங்கே போகிறாய்?",
+        "ch":  "你要去哪里?" 
+    },
+    {
+        "text_id": "search_hotel",
+        "en": "Search",
+        "si": "සොයන්න",
+        "ta": "தேடு",
+        "ch":  "搜索" 
+    },
+    {
+        "text_id": "hotel_data",
+        "en": "Hotel",
+        "si": "හෝටල්",
+        "ta": "ஹோட்டல்",
+        "ch":  "酒店" 
+    },
+    {
+        "text_id": "Backpacker_data",
+        "en": "Backpacker",
+        "si": "බැක්පැකර්",
+        "ta": "கால்நடை",
+        "ch":  "背包客" 
+    },
+    {
+        "text_id": "Resort_data",
+        "en": "Resort",
+        "si": "නිවාඩු නිකේතනය",
+        "ta": "உல்லாசப்போக்கிடம்",
+        "ch":  "采取" 
+    },
+    {
+        "text_id": "villa_data",
+        "en": "Villa",
+        "si": "විලා",
+        "ta": "வில்லா",
+        "ch":  "别墅" 
+    },
+    {
+        "text_id": "apartment",
+        "en": "Apartment",
+        "si": "මහල් නිවාසය",
+        "ta": "அடுக்குமாடி இல்லங்கள்",
+        "ch":  "公寓" 
+    },
+    {
+        "text_id": "guest_house",
+        "en": "Guest house",
+        "si": "ආගන්තුක නිවාසය",
+        "ta": "விருந்தினர் இல்லம்",
+        "ch":  "招待所" 
+    },
+    {
+        "text_id": "motel",
+        "en": "Hotel.com",
+        "si": "හෝටල්.com",
+        "ta": "ஹோட்டல்.com",
+        "ch":  "酒店" 
+    },
+    {
+        "text_id": "accommodation",
+        "en": "Accommodation",
+        "si": "නවාතැන්",
+        "ta": "தங்குமிடம்",
+        "ch":  "住宿" 
+    },
+    {
+        "text_id": "Bed_breakfast",
+        "en": "Bed & Breakfast",
+        "si": "ඇඳ සහ උදෑසන ආහාරය",
+        "ta": "படுக்கை & காலை உணவு",
+        "ch":  "床和早餐" 
+    },
+    {
+        "text_id": "Last_search",
+        "en": "Last searches",
+        "si": "අවසාන සෙවීම්",
+        "ta": "கடைசி தேடல்கள்",
+        "ch":  "最后搜索" 
+    },
+    {
+        "text_id": "clear_all",
+        "en": "Clear all",
+        "si": "සියල්ල හිස් කරන්න",
+        "ta": "அனைத்தையும் அழி",
+        "ch":  "全部清除" 
+    },
+    {
+        "text_id": "cape Town",
+        "en": "Cape Town",
+        "si": "කේප් ටවුන්",
+        "ta": "நகர முனை",
+        "ch":  "开普敦" 
+    },
+    {
+        "text_id": "five_star",
+        "en": "Extraordinary five-star\noutdoor activites",
+        "si": "අසාමාන්‍ය තරු පහේ\n එළිමහන් ක්‍රියාකාරකම්",
+        "ta": "அசாதாரண ஐந்து நட்சத்திர\n வெளிப்புற நடவடிக்கைகள்",
+        "ch":  "非凡五星级\n户外活动" 
+    },
+    {
+        "text_id": "view_hotel",
+        "en": "View Hotel",
+        "si": "හෝටලය බලන්න",
+        "ta": "ஹோட்டலைப் பார்க்கவும்",
+        "ch":  "查看酒店" 
+    },
+    {
+        "text_id": "hotel found",
+        "en": "Hotel found",
+        "si": "හෝටලය හමු විය",
+        "ta": "ஹோட்டல் கிடைத்தது",
+        "ch":  "找到酒店" 
+    },
+    {
+        "text_id": "filtter",
+        "en": "Filtter",
+        "si": "පෙරහන",
+        "ta": "வடிகட்டி",
+        "ch":  "筛选" 
+    },
+    {
+        "text_id": "popular_destination",
+        "en": "Popular Destination",
+        "si": "ජනප්‍රිය ගමනාන්තය",
+        "ta": "பிரபலமான இலக்கு",
+        "ch":  "热门目的地" 
+    },
+    {
+        "text_id": "best_deal",
+        "en": "Best Deals",
+        "si": "හොඳම ගනුදෙනු",
+        "ta": "சிறந்த சலுகைகள்",
+        "ch":  "特卖" 
+    },
+    {
+        "text_id": "view_all",
+        "en": "View all",
+        "si": "සියල්ල බලන්න",
+        "ta": "அனைத்தையும் காட்டு",
+        "ch":  "查看全部" 
+    },
+    {
+        "text_id": "km_to_city",
+        "en": "km to city",
+        "si": "නගරයට කි.මී",
+        "ta": "நகரத்திற்கு கி.மீ",
+        "ch":  "距市区公里" 
+    },
+    {
+        "text_id": "per_night",
+        "en": "/per night",
+        "si": "/රාත්රියකට",
+        "ta": "/ஓர் இரவிற்கு",
+        "ch":  "/每晚" 
+    },
+    {
+        "text_id": "reviews",
+        "en": "Reviews",
+        "si": "සමාලෝචන",
+        "ta": "விமர்சனங்கள்",
+        "ch":  "点评" 
+    },
+    {
+        "text_id": "book_now",
+        "en": "Book now",
+        "si": "දැන්ම වෙන්කරගන්න",
+        "ta": "பதிவு",
+        "ch":  "现在预订" 
+    },
+    {
+        "text_id": "more_details",
+        "en": "More Details",
+        "si": "වැඩිපුර විස්තර",
+        "ta": "கூடுதல் தகவல்கள்",
+        "ch":  "更多细节" 
+    },
+    {
+        "text_id": "summary",
+        "en": "Summary",
+        "si": "සාරාංශය",
+        "ta": "சுருக்கம்",
+        "ch":  "概括" 
+    },
+    {
+        "text_id": "read_more",
+        "en": "read more",
+        "si": "වැඩිදුර කියවන්න",
+        "ta": "மேலும் படிக்க",
+        "ch":  "阅读更多" 
+    },
+    {
+        "text_id": "less",
+        "en": "less",
+        "si": "අඩු",
+        "ta": "குறைவாக",
+        "ch":  "较少的" 
+    },
+    {
+        "text_id": "Overall_rating",
+        "en": "Overall rating",
+        "si": "සමස්ත ශ්රේණිගත කිරීම",
+        "ta": "ஒட்டுமொத்த மதிப்பீடு",
+        "ch":  "总体评价" 
+    },
+    {
+        "text_id": "room",
+        "en": "Room",
+        "si": "කාමරය",
+        "ta": "அறை",
+        "ch":  "房间" 
+    },
+    {
+        "text_id": "service",
+        "en": "Services",
+        "si": "සේවාවන්",
+        "ta": "சேவைகள்",
+        "ch":  "服务" 
+    },
+    {
+        "text_id": "location",
+        "en": "Location",
+        "si": "ස්ථානය",
+        "ta": "இடம்",
+        "ch":  "地点" 
+    },
+    {
+        "text_id": "price",
+        "en": "Prcie",
+        "si": "මිල",
+        "ta": "விலை",
+        "ch":  "价格" 
+    },
+    {
+        "text_id": "room_photo",
+        "en": "Photo",
+        "si": "ඡායා රූප",
+        "ta": "புகைப்படம்",
+        "ch":  "照片" 
+    },
+    {
+        "text_id": "last_update",
+        "en": "Last Update",
+        "si": "අවසාන යාවත්කාලීන කිරීම",
+        "ta": "கடைசியாக புதுப்பிக்கப்பட்டது",
+        "ch":  "最后更新" 
+    },
+    {
+        "text_id": "reply",
+        "en": "Reply",
+        "si": "පිලිතුරු",
+        "ta": "பதில்",
+        "ch":  "回复" 
+    },
+    {
+        "text_id": "My_Trips",
+        "en": "My Trip",
+        "si": "මගේ ගමන",
+        "ta": "என் பயணம்",
+        "ch":  "我的旅行" 
+    },
+    {
+        "text_id": "upcoming",
+        "en": "Upcoming",
+        "si": "ඉදිරියට",
+        "ta": "வரவிருக்கிறது",
+        "ch":  "即将到来" 
+    },
+    {
+        "text_id": "finished",
+        "en": "Finished",
+        "si": "අවසන්",
+        "ta": "முடிந்தது",
+        "ch":  "完成的" 
+    },
+    {
+        "text_id": "favorites",
+        "en": "Favorites",
+        "si": "ප්රියතම",
+        "ta": "பிடித்தவை",
+        "ch":  "收藏夹" 
+    },
+    {
+        "text_id": "hotel_found",
+        "en": "Hotel Found",
+        "si": "හෝටලය හමු විය",
+        "ta": "ஹோட்டல் கிடைத்தது",
+        "ch":  "找到酒店" 
+    },
+    {
+        "text_id": "filtter",
+        "en": "filtter",
+        "si": "පෙරහන",
+        "ta": "வடிகட்டி",
+        "ch":  "筛选" 
+    },
+    {
+        "text_id": "price_text",
+        "en": "price (for 1 night)",
+        "si": "මිල (රාත්‍රිය 1ක් සඳහා)",
+        "ta": "விலை (1 இரவுக்கு)",
+        "ch":  "价格（1 晚）" 
+    },
+    {
+        "text_id": "popular filter",
+        "en": "Popular filter",
+        "si": "ජනප්‍රිය පෙරහන",
+        "ta": "பிரபலமான வடிகட்டி",
+        "ch":  "热门滤镜" 
+    },
+    {
+        "text_id": "distance from city",
+        "en": "Distance from city center",
+        "si": "නගර මධ්‍යයේ සිට දුර",
+        "ta": "நகர மையத்திலிருந்து தூரம்",
+        "ch":  "距离市中心" 
+    },
+    {
+        "text_id": "type of accommodation",
+        "en": "Type of Accommodation",
+        "si": "නවාතැන් වර්ගය",
+        "ta": "விடுதி வகை",
+        "ch":  "住宿类型" 
+    },
+    {
+        "text_id": "Apply_text",
+        "en": "Apply",
+        "si": "අයදුම් කරන්න",
+        "ta": "விண்ணப்பிக்கவும்",
+        "ch":  "申请" 
+    },
+    {
+        "text_id": "all_text",
+        "en": "All",
+        "si": "සියලුම",
+        "ta": "அனைத்து",
+        "ch":  "全部" 
+    },
+    {
+        "text_id": "Home_text",
+        "en": "Home",
+        "si": "නිවස",
+        "ta": "வீடு",
+        "ch":  "家" 
+    },
+    {
+        "text_id": "free_breakfast",
+        "en": "Free Breakfast",
+        "si": "නොමිලේ උදෑසන ආහාරය",
+        "ta": "இலவச காலை உணவு",
+        "ch":  "免费早餐" 
+    },
+    {
+        "text_id": "free_Parking",
+        "en": "Free Parking",
+        "si": "නොමිලේ වාහන නැවැත්වීම",
+        "ta": "இலவச நிறுத்தம்",
+        "ch":  "免费停车场" 
+    },
+    {
+        "text_id": "pool_text",
+        "en": "Pool",
+        "si": "තටාකය",
+        "ta": "குளம்",
+        "ch":  "水池" 
+    },
+    {
+        "text_id": "pet_friendlly",
+        "en": "Pet Friendly",
+        "si": "සුරතල් හිතකාමී",
+        "ta": "விலங்குகளிடம் அன்பாக",
+        "ch":  "宠物友好" 
+    },
+    {
+        "text_id": "Free_Wifi",
+        "en": "Free Wifi",
+        "si": "නොමිලේ Wifi",
+        "ta": "இலவச இணைய வசதி",
+        "ch":  "免费 WiFi" 
+    },
+    {
+        "text_id": "Less_than",
+        "en": "Less than",
+        "si": "අඩු",
+        "ta": "விட குறைவாக",
+        "ch":  "少于" 
+    },
+    {
+        "text_id": "km_text",
+        "en": "Km",
+        "si": "කි.මී",
+        "ta": "கி.மீ",
+        "ch":  "公里" 
+    },
+    {
+        "text_id": "amanda_text",
+        "en": "Amanda",
+        "si": "අමන්දා",
+        "ta": "அமண்டா",
+        "ch":  "阿曼达" 
+    },
+    {
+        "text_id": "view_edit",
+        "en": "View and Edit profile",
+        "si": "පැතිකඩ බලන්න සහ සංස්කරණය කරන්න",
+        "ta": "சுயவிவரத்தைப் பார்த்து திருத்தவும்",
+        "ch":  "查看和编辑个人资料" 
+    },
+    {
+        "text_id": "edit_profile",
+        "en": "Edit Profile",
+        "si": "පැතිකඩ සංස්කරණය කරන්න",
+        "ta": "சுயவிவரத்தைத் திருத்து",
+        "ch":  "编辑个人资料" 
+    },
+    {
+        "text_id": "username_text",
+        "en": "UserName",
+        "si": "පරිශීලක නාමය",
+        "ta": "பயனர்பெயர்",
+        "ch":  "用户名" 
+    },
+    {
+        "text_id": "phone",
+        "en": "Phone",
+        "si": "දුරකථන",
+        "ta": "தொலைபேசி",
+        "ch":  "电话" 
+    },
+    {
+        "text_id": "date_of_birth",
+        "en": "Date of Birth",
+        "si": "උපන්දිනය",
+        "ta": "பிறந்த தேதி",
+        "ch":  "出生日期" 
+    },
+    {
+        "text_id": "address_text",
+        "en": "Address",
+        "si": "ලිපිනය",
+        "ta": "முகவரி",
+        "ch":  "地址" 
+    },
+    {
+        "text_id": "mail_text",
+        "en": "Email",
+        "si": "විද්යුත් තැපෑල",
+        "ta": "மின்னஞ்சல்",
+        "ch":  "电子邮件" 
+    },
+    {
+        "text_id": "change_password",
+        "en": "Change Password",
+        "si": "මුරපදය වෙනස් කරන්න",
+        "ta": "கடவுச்சொல்லை மாற்று",
+        "ch":  "更改密码" 
+    },
+    {
+        "text_id": "enter_your_new_password",
+        "en": "Enter your new password and confirm your password",
+        "si": "ඔබගේ නව මුරපදය ඇතුළත් කර ඔබගේ මුරපදය තහවුරු කරන්න",
+        "ta": "உங்கள் புதிய கடவுச்சொல்லை உள்ளிட்டு உங்கள் கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+        "ch":  "输入您的新密码并确认您的密码" 
+    },
+    {
+        "text_id": "new_password",
+        "en": "New Password",
+        "si": "නව මුරපදය",
+        "ta": "புதிய கடவுச்சொல்",
+        "ch":  "新密码" 
+    },
+    {
+        "text_id": "confirm_password",
+        "en": "Confirm Password",
+        "si": "මුරපදය තහවුරු කරන්න",
+        "ta": "கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+        "ch":  "确认密码" 
+    },
+    {
+        "text_id": "invite_friend",
+        "en": "Invite Friend",
+        "si": "මිතුරාට ආරාධනා කරන්න",
+        "ta": "நண்பரை அழைக்கவும்",
+        "ch":  "邀请朋友"
+    },
+    {
+        "text_id": "invite_your_friend",
+        "en": "Invite your Friend",
+        "si": "ඔබේ මිතුරාට ආරාධනා කරන්න",
+        "ta": "உங்கள் நண்பரை அழைக்கவும்",
+        "ch":  "邀请你的朋友" 
+    },
+    {
+        "text_id": "invite_friend_desc",
+        "en": "are you one of those who makes everything at the last moment",
+        "si": "ඔබ අවසාන මොහොතේ සියල්ල කරන අයගෙන් කෙනෙකි",
+        "ta": "கடைசி நேரத்தில் எல்லாவற்றையும் செய்பவர்களில் நீங்களும் ஒருவரா?",
+        "ch":  "你是那些在最后一刻做出一切的人之一吗" 
+    },
+    {
+        "text_id": "share_text",
+        "en": "Share",
+        "si": "බෙදාගන්න",
+        "ta": "பகிர்",
+        "ch":  "分享" 
+    },
+    {
+        "text_id": "credit_coupons",
+        "en": "Crdit & Coupons",
+        "si": "ණය සහ කූපන් පත්",
+        "ta": "கடன் & கூப்பன்கள்",
+        "ch":  "信用卡和优惠券" 
+    },
+    {
+        "text_id": "help_center",
+        "en": "Help Center",
+        "si": "උපකාරක මධ්යස්ථානය",
+        "ta": "உதவி மையம்",
+        "ch":  "帮助中心" 
+    },
+    {
+        "text_id": "how_can_help_you",
+        "en": "How can we help",
+        "si": "අපි කොහොමද උදව් කරන්නේ",
+        "ta": "நாங்கள் உங்களுக்கு எப்படி உதவ முடியும்",
+        "ch":  "我们能帮你什么吗" 
+    },
+    {
+        "text_id": "search_help_artical",
+        "en": "Search help articles",
+        "si": "උදව් ලිපි සොයන්න",
+        "ta": "உதவிக் கட்டுரைகளைத் தேடுங்கள்",
+        "ch":  "搜索帮助文章" 
+    },
+    {
+        "text_id": "paying_for_a_reservation",
+        "en": "Paying for a reservation",
+        "si": "වෙන් කිරීමක් සඳහා ගෙවීම",
+        "ta": "முன்பதிவுக்கு பணம் செலுத்துதல்",
+        "ch":  "支付预订费用" 
+    },
+    {
+        "text_id": "trust_and_safety",
+        "en": "Trust and Safety",
+        "si": "විශ්වාසය සහ ආරක්ෂාව",
+        "ta": "நம்பிக்கை மற்றும் பாதுகாப்பு",
+        "ch":  "信任与安全" 
+    },
+    {
+        "text_id": "How do I ",
+        "en": "How do I cancel my rooms reservation?",
+        "si": "මගේ කාමර වෙන් කිරීම අවලංගු කරන්නේ කෙසේද?",
+        "ta": "எனது அறை முன்பதிவை எப்படி ரத்து செய்வது?",
+        "ch":  "如何取消我的客房预订？" 
+    },
+    {
+        "text_id": "What methods ",
+        "en": "What methods of payment does Room accept?",
+        "si": "කාමරය පිළිගන්නා ගෙවීම් ක්‍රම මොනවාද?",
+        "ta": "எந்த கட்டண முறைகளை அறை ஏற்றுக்கொள்கிறது?",
+        "ch":  "接受哪些付款方式？" 
+    },
+    {
+        "text_id": "I'm_a_guest_What",
+        "en": "I'm a guest. What are some safety tips I can follow?",
+        "si": "මම අමුත්තෙක්. මට අනුගමනය කළ හැකි ආරක්ෂක ඉඟි මොනවාද?",
+        "ta": "நான் ஒரு விருந்தினர். நான் பின்பற்றக்கூடிய சில பாதுகாப்பு குறிப்புகள் என்ன?",
+        "ch":  "我是客人 我可以遵循哪些安全提示？" },
+    {
+        "text_id": "When am I charged",
+        "en": "When am I charged for a reservation?",
+        "si": "වෙන්කරවා ගැනීමක් සඳහා මගෙන් අය කරන්නේ කවදාද?",
+        "ta": "முன்பதிவு செய்ய எனக்கு எப்போது கட்டணம் விதிக்கப்படும்?",
+        "ch":  "我什么时候收取预订费用？"
+    },
+    {
+        "text_id": "How do I edit",
+        "en": "How do I edit or remove a payment method?",
+        "si": "මම ගෙවීම් ක්‍රමයක් සංස්කරණය කරන්නේ හෝ ඉවත් කරන්නේ කෙසේද?",
+        "ta": "கட்டண முறையை எவ்வாறு திருத்துவது அல்லது அகற்றுவது?",
+        "ch":  "如何编辑或删除付款方式？" 
+    },
+    {
+        "text_id": "You can cancel",
+        "en": "You can cancel a reservation any time before Or during your trip. To cancel a reservation:",
+        "si": "ඔබට පෙර හෝ ඔබගේ සංචාරය අතරතුර ඕනෑම වේලාවක වෙන් කිරීමක් අවලංගු කළ හැක. වෙන් කිරීමක් අවලංගු කිරීමට:",
+        "ta": "முன்பதிவை எந்த நேரத்திலும் அல்லது பயணத்தின் போது ரத்து செய்யலாம். முன்பதிவை ரத்து செய்ய:",
+        "ch":  "您可以在旅行前或旅行期间随时取消预订。 要取消预订：" 
+     },
+    {
+        "text_id": "GO to Trips and choose yotr trip",
+        "en": "Go to Trips and choose yotr trip Click Your home reservation Click Modify reservation",
+        "si": "සංචාර වෙත ගොස් ඔබගේ සංචාරය තෝරන්න ඔබගේ නිවසේ වෙන්කිරීම ක්ලික් කරන්න වෙන්කිරීම වෙනස් කරන්න ක්ලික් කරන්න",
+        "ta": "பயணங்களுக்குச் சென்று, உங்கள் பயணத்தைத் தேர்வுசெய்யவும், உங்கள் வீட்டு முன்பதிவைக் கிளிக் செய்யவும், முன்பதிவை மாற்று என்பதைக் கிளிக் செய்யவும்",
+        "ch":  "转到行程并选择您的行程 单击您的家庭预订 单击修改预订" 
+    },
+    {
+        "text_id": "You'll be taken to",
+        "en": "You'll be taken to a new page where you either change or cancel your reservation. Click the Next button under Cancel reservation to Start the cancellation process.",
+        "si": "ඔබ නව පිටුවකට ගෙන යනු ඇත, එහිදී ඔබ ඔබේ වෙන් කිරීම වෙනස් කරයි හෝ අවලංගු කරයි. අවලංගු කිරීමේ ක්‍රියාවලිය ආරම්භ කිරීමට වෙන් කිරීම අවලංගු කරන්න යටතේ ඇති Next බොත්තම ක්ලික් කරන්න.",
+        "ta": "நீங்கள் ஒரு புதிய பக்கத்திற்கு அழைத்துச் செல்லப்படுவீர்கள், அங்கு உங்கள் முன்பதிவை மாற்றவும் அல்லது ரத்து செய்யவும். ரத்துசெய்யும் செயல்முறையைத் தொடங்க, முன்பதிவை ரத்துசெய் கீழ் உள்ள அடுத்த பொத்தானைக் கிளிக் செய்யவும்.",
+        "ch":  "您将被带到一个新页面，您可以在其中更改或取消您的预订。 单击取消预订下的下一步按钮开始取消流程。" },
+    {
+        "text_id": "If you cancel, your ",
+        "en": "If you cancel, your refund Will be determined by your host'r cancellation policy. We'll show your refund breakdown before you finalize the cancellation.",
+        "si": "ඔබ අවලංගු කරන්නේ නම්, ඔබේ මුදල් ආපසු ගෙවීම ඔබේ සත්කාරක අවලංගු කිරීමේ ප්‍රතිපත්තිය අනුව තීරණය වේ. ඔබ අවලංගු කිරීම අවසන් කිරීමට පෙර අපි ඔබේ මුදල් ආපසු ගෙවීමේ බිඳවැටීම පෙන්වන්නෙමු.",
+        "ta": "நீங்கள் ரத்துசெய்தால், உங்கள் புரவலர் ரத்துசெய்தல் கொள்கையின்படி உங்கள் பணத்தைத் திரும்பப்பெறும். நீங்கள் ரத்துசெய்தலை முடிப்பதற்கு முன், உங்கள் பணத்தைத் திரும்பப்பெறும் விவரங்களைக் காண்பிப்போம்.",
+        "ch":  "如果您取消，您的退款将由房东的取消政策决定。 在您完成取消之前，我们会显示您的退款明细。" },
+    {
+        "text_id": "Give feedback",
+        "en": "Give feedback",
+        "si": "ප්රතිචාර දක්වන්න",
+        "ta": "கருத்து தெரிவிக்கவும்",
+        "ch":  "给予反馈" },
+    {
+        "text_id": "Related articles",
+        "en": "Related articles",
+        "si": "ඔසම්බන්ධ ලිපි",
+        "ta": "தொடர்புடைய கட்டுரைகள்",
+        "ch":  "相关文章" },
+    {
+        "text_id": "Can I change",
+        "en": "Can I change a reservation as a guest?",
+        "si": "මට ආගන්තුකයෙකු ලෙස වෙන් කිරීමක් වෙනස් කළ හැකිද?",
+        "ta": "விருந்தினராக முன்பதிவை மாற்ற முடியுமா?",
+        "ch":  "我可以作为客人更改预订吗?" },
+    {
+        "text_id": "How do I cancel",
+        "en": "How do I cancel a reservation request?",
+        "si": "වෙන් කිරීමේ ඉල්ලීමක් අවලංගු කරන්නේ කෙසේද?",
+        "ta": "முன்பதிவு கோரிக்கையை நான் எப்படி ரத்து செய்வது?",
+        "ch":  "如何取消预订请求？" },
+    {
+        "text_id": "What is the",
+        "en": "What is the Resolution Center?",
+        "si": "විභේදන මධ්‍යස්ථානය යනු කුමක්ද?",
+        "ta": "தீர்மான மையம் என்றால் என்ன?",
+        "ch":  "什么是调解中心？" },
+    {
+        "text_id": "payment_text",
+        "en": "Payment",
+        "si": "ගෙවීම",
+        "ta": "பணம் செலுத்துதல்",
+        "ch":  "支付" },
+    {
+        "text_id": "setting_text",
+        "en": "Setting",
+        "si": "සැකසීම",
+        "ta": "அமைத்தல்",
+        "ch":  "环境" },
+    {
+        "text_id": "Notifications",
+        "en": "Notifications",
+        "si": "දැනුම්දීම්",
+        "ta": "அறிவிப்புகள்",
+        "ch":  "通知" },
+    {
+        "text_id": "Theme Mode",
+        "en": "Theme Mode",
+        "si": "තේමා මාදිලිය",
+        "ta": "தீம் பயன்முறை",
+        "ch":  "主题模式" },
+    {
+        "text_id": "light",
+        "en": "light",
+        "si": "ආලෝකය",
+        "ta": "ஒளி",
+        "ch":  "光" },
+    {
+        "text_id": "dark",
+        "en": "dark",
+        "si": "අඳුරු",
+        "ta": "இருள்",
+        "ch":  "黑暗的" },
+    {
+        "text_id": "system",
+        "en": "system",
+        "si": "පද්ධතියක්",
+        "ta": "அமைப்பு",
+        "ch":  "系统" },
+    {
+        "text_id": "Fonts",
+        "en": "Fonts",
+        "si": "අකුරු",
+        "ta": "எழுத்துருக்கள்",
+        "ch":  "字体" },
+    {
+        "text_id": "selected_fonts",
+        "en": "Selected fonts",
+        "si": "තෝරාගත් අකුරු",
+        "ta": "தேர்ந்தெடுக்கப்பட்ட எழுத்துருக்கள்",
+        "ch":  "所选字体" },
+    {
+        "text_id": "Color",
+        "en": "Color",
+        "si": "වර්ණ",
+        "ta": "நிறம்",
+        "ch":  "颜色" },
+    {
+        "text_id": "Selected color",
+        "en": "Selected color",
+        "si": "තෝරාගත් වර්ණය",
+        "ta": "தேர்ந்தெடுக்கப்பட்ட நிறம்",
+        "ch":  "已选颜色" },
+    {
+        "text_id": "Language",
+        "en": "Language",
+        "si": "භාෂාව",
+        "ta": "மொழி",
+        "ch":  "语" },
+    {
+        "text_id": "Selected language",
+        "en": "Selected language",
+        "si": "තෝරාගත් භාෂාව",
+        "ta": "தேர்ந்தெடுக்கப்பட்ட மொழி",
+        "ch":  "所选语言" },
+    {
+        "text_id": "Country",
+        "en": "Country",
+        "si": "රට",
+        "ta": "நாடு",
+        "ch":  "国家" },
+    {
+        "text_id": "Currency",
+        "en": "Currency",
+        "si": "ඔබගේ චාරිකා සැලසුම් කරන්න",
+        "ta": "செலாவணி",
+        "ch":  "货币" },
+    {
+        "text_id": "Terms of Services",
+        "en": "Terms of Services",
+        "si": "සේවා කොන්දේසි",
+        "ta": "சேவை விதிமுறைகள்",
+        "ch":  "服务条款" 
+    },
+    {
+        "text_id": "Privacy Policy",
+        "en": "Privacy Policy",
+        "si": "රහස්යතා ප්රතිපත්තිය",
+        "ta": "தனியுரிமைக் கொள்கை",
+        "ch":  "隐私政策" },
+    {
+        "text_id": "Give Us Feedbacks",
+        "en": "Give Us Feedbacks",
+        "si": "අපට ප්‍රතිපෝෂණ ලබා දෙන්න",
+        "ta": "எங்களுக்கு கருத்துக்களை வழங்கவும்",
+        "ch":  "给我们反馈" },
+    {
+        "text_id": "Log out",
+        "en": "Log out",
+        "si": "ලොග් අවුට් වෙන්න",
+        "ta": "வெளியேறு",
+        "ch":  "登出" },
+    {
+        "text_id": "Hello",
+        "en": "Hello",
+        "si": "ආයුබෝවන්",
+        "ta": "வணக்கம்",
+        "ch":  "你好" },
+    {
+        "text_id": "room_selected",
+        "en": "Room selected",
+        "si": "කාමර සංඛ්යාව",
+        "ta": "அறையின் எண்ணிக்கை",
+        "ch":  "房间数" },
+    {
+        "text_id": "number_room",
+        "en": "Number of Room",
+        "si": "ඔබගේ චාරිකා සැලසුම් කරන්න",
+        "ta": "உங்கள் பயணங்களை திட்டமிடுங்கள்",
+        "ch":  "計劃你的旅行" },
+    {
+        "text_id": "people_data",
+        "en": "People",
+        "si": "මහජන",
+        "ta": "மக்கள்",
+        "ch":  "人们" },
+    {
+        "text_id": "room_data",
+        "en": "Room",
+        "si": "කාමරය",
+        "ta": "அறை",
+        "ch":  "房间" },
+    {
+        "text_id": "choose_date",
+        "en": "Choose Date",
+        "si": "දිනය තෝරන්න",
+        "ta": "தேதியைத் தேர்ந்தெடுக்கவும்",
+        "ch":  "选择日期" 
+    },
+    {
+        "text_id": "Apply_date",
+        "en": "Apply",
+        "si": "අයදුම් කරන්න",
+        "ta": "விண்ணப்பிக்கவும்",
+        "ch":  "申请" },
+    {
+        "text_id": "From_text",
+        "en": "From",
+        "si": "සිට",
+        "ta": "இருந்து",
+        "ch":  "从" },
+    {
+        "text_id": "to_text",
+        "en": "To",
+        "si": "වෙත",
+        "ta": "செய்ய",
+        "ch":  "至" },
+    {
+        "text_id": "sleeps",
+        "en": "sleeps",
+        "si": "නිදාගන්නවා",
+        "ta": "துாக்கம்",
+        "ch":  "睡覺" },
+    {
+        "text_id": "children",
+        "en": "children",
+        "si": "දරුවන්",
+        "ta": "குழந்தைகள்",
+        "ch":  "孩子們" },
+    {
+        "text_id": "enter_new_password",
+        "en": "enter new password",
+        "si": "නව මුරපදය ඇතුළත් කරන්න",
+        "ta": "புதிய கடவுச்சொல்லை உள்ளிடவும்",
+        "ch":  "輸入新密碼" },
+    {
+        "text_id": "enter_confirm_password",
+        "en": "enter confirm password",
+        "si": "තහවුරු මුරපදය ඇතුලත් කරන්න",
+        "ta": "உறுதி கடவுச்சொல்லை உள்ளிடவும்",
+        "ch":  "輸入確認密碼" },
+    {
+        "text_id": "password_cannot_empty",
+        "en": "Password cannot be empty",
+        "si": "මුරපදය හිස් විය නොහැක",
+        "ta": "கடவுச்சொல் காலியாக இருக்கக்கூடாது",
+        "ch":  "密碼不能為空" },
+    {
+        "text_id": "valid_new_password",
+        "en": "We cannot allow less than 8 lengths of the password, please enter a valid new password",
+        "si": "අපට මුරපදයේ දිග 8කට වඩා අඩුවෙන් ඉඩ දිය නොහැක, කරුණාකර වලංගු නව මුරපදයක් ඇතුළත් කරන්න",
+        "ta": "8 க்கும் குறைவான கடவுச்சொல்லை அனுமதிக்க முடியாது, தயவுசெய்து சரியான புதிய கடவுச்சொல்லை உள்ளிடவும்",
+        "ch":  "我們不能允許少於 8 個長度的密碼，請輸入一個有效的新密碼" },
+    {
+        "text_id": "valid_password",
+        "en": "We cannot allow less than 8 lengths of the password, please enter a valid password",
+        "si": "අපට මුරපදයේ දිග 8කට වඩා අඩුවෙන් ඉඩ දිය නොහැක, කරුණාකර වලංගු මුරපදයක් ඇතුළත් කරන්න",
+        "ta": "8 க்கும் குறைவான கடவுச்சொல்லை அனுமதிக்க முடியாது, சரியான கடவுச்சொல்லை உள்ளிடவும்",
+        "ch":  "密碼不能少於8位，請輸入有效密碼" },
+    {
+        "text_id": "password_not_match",
+        "en": "Password does not match, please enter a valid password",
+        "si": "මුරපදය නොගැලපේ, කරුණාකර වලංගු මුරපදයක් ඇතුළත් කරන්න",
+        "ta": "கடவுச்சொல் பொருந்தவில்லை, சரியான கடவுச்சொல்லை உள்ளிடவும்",
+        "ch":  "密碼不匹配，請輸入有效密碼" },
+    {
+        "text_id": "enter_your_email",
+        "en": "enter your email",
+        "si": "ඔබගේ විද්‍යුත් තැපෑල ඇතුලත් කරන්න",
+        "ta": "மின்னஞ்சலை பதிவுசெய்",
+        "ch":  "輸入你的電子郵箱" },
+    {
+        "text_id": "email_cannot_empty",
+        "en": "Email cannot be empty",
+        "si": "විද්‍යුත් තැපෑල හිස් විය නොහැක",
+        "ta": "மின்னஞ்சல் காலியாக இருக்கக்கூடாது",
+        "ch":  "郵箱不能為空" },
+    {
+        "text_id": "enter_valid_email",
+        "en": "Please enter a valid email address, abc@xyz.com",
+        "si": "කරුණාකර වලංගු විද්‍යුත් තැපැල් ලිපිනයක් ඇතුළු කරන්න, abc@xyz.com",
+        "ta": "சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும், abc@xyz.com",
+        "ch":  "請輸入有效的電子郵件地址，abc@xyz.com" },
+    {
+        "text_id": "enter_password",
+        "en": "enter password",
+        "si": "මුරපදය ඇතුලත් කරන්න",
+        "ta": "கடவுச்சொல்லை உள்ளிடவும்",
+        "ch":  "輸入密碼" },
+    {
+        "text_id": "enter_first_name",
+        "en": "enter first name",
+        "si": "මුල් නම ඇතුලත් කරන්න",
+        "ta": "முதல் பெயரை உள்ளிடவும்",
+        "ch":  "輸入名字" },
+    {
+        "text_id": "enter_last_name",
+        "en": "enter last name",
+        "si": "අවසාන නම ඇතුලත් කරන්න",
+        "ta": "கடைசி பெயரை உள்ளிடவும்",
+        "ch":  "輸入姓氏" },
+    {
+        "text_id": "first_name_cannot_empty",
+        "en": "First Name cannot be empty",
+        "si": "මුල් නම හිස් විය නොහැක",
+        "ta": "முதல் பெயர் காலியாக இருக்கக்கூடாது",
+        "ch":  "名字不能為空" },
+    {
+        "text_id": "last_name_cannot_empty",
+        "en": "Last Name cannot be empty",
+        "si": "අවසාන නම හිස් විය නොහැක",
+        "ta": "கடைசி பெயர் காலியாக இருக்கக்கூடாது",
+        "ch":  "姓不能為空" },
+    {
+        "text_id": "let_you_in",
+        "en": "Let's you in",
+        "si": "අපි ඔයාව ඇතුලට යමු",
+        "ta": "உள்ளே வருவோம்",
+        "ch":  "讓你在"
+    },
+    {
+        "text_id": "user_name",
+        "en": "Ibraheem",
+        "si": "ඉබ්‍රහීම්",
+        "ta": "இப்ராஹீம்",
+        "ch":  "易卜拉欣"
+    },
+    {
+        "text_id": "payment_mehod",
+        "en": "Choose your payment method",
+        "si": "ඔබගේ ගෙවුම් ක්රමය තෝරාගන්න",
+        "ta": "உங்களுடைய பணம் செலுத்தும் முறையை தேர்ந்தெடுக்கவும்",
+        "ch":  "选择你的支付方法"
+    },
+    
+    {
+        "text_id": "addnew_card",
+        "en": "Add New Card",
+        "si": "නව කාඩ්පත එක් කරන්න",
+        "ta": "புதிய அட்டையைச் சேர்க்கவும்",
+        "ch":  "添加新卡"
+    },
+    {
+        "text_id": "ok",
+        "en": "Ok",
+        "si": "හරි",
+        "ta": "சரி",
+        "ch":  "行"
+    },
+    {
+        "text_id": "continue",
+        "en": "Continue",
+        "si": "දිගටම කරගෙන යන්න",
+        "ta": "தொடரவும்",
+        "ch":  "继续"
+    },
+    {
+        "text_id": "succes",
+        "en": "Your payment was done succesfully!!",
+        "si": "ඔබගේ ගෙවීම සාර්ථකව සිදු විය!!",
+        "ta": "உங்கள் கட்டணம் வெற்றிகரமாக முடிந்தது!!",
+        "ch":  "您的付款已成功完成！！"
+    }
+    
+    
+
+    
+]
